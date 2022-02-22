@@ -1,1 +1,2 @@
 file from newly created branch that is Branch_A
+This file is updated for merging
